@@ -3,7 +3,7 @@ An interactive web-based tool for assisting doctors in heart disease diagnosis. 
 
 Features
 
-Patient Login with OTP verification.
+Doctor Login with OTP verification.
 
 Patient info collection (Name, Phone Number).
 
